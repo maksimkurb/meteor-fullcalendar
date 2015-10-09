@@ -1,7 +1,7 @@
 Package.describe({
     name: 'maksimkurb:fullcalendar',
     summary: "Full-sized drag & drop event calendar (jQuery plugin)",
-    version: "2.4.0a",
+    version: "2.4.0.1",
     git: "https://github.com/maksimkurb/meteor-fullcalendar.git"
 });
 
