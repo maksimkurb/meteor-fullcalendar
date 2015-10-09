@@ -1,14 +1,14 @@
 Package.describe({
     name: 'maksimkurb:fullcalendar',
     summary: "Full-sized drag & drop event calendar (jQuery plugin)",
-    version: "2.4.0",
+    version: "2.4.0a",
     git: "https://github.com/maksimkurb/meteor-fullcalendar.git"
 });
 
 Package.onUse(function(api) {
     api.versionsFrom('METEOR@0.9.2.2');
     api.use([
-        'momentjs:moment@2.8.4',
+        'momentjs:moment@2.10.6',
         'templating'
     ], 'client');
     api.addFiles([

@@ -15,15 +15,15 @@ html-tools@1.0.5
 htmljs@1.0.5
 id-map@1.0.4
 jquery@1.11.4
+maksimkurb:fullcalendar@2.4.0
 meteor@1.1.9
 minifiers@1.1.7
-momentjs:moment@2.8.4
+momentjs:moment@2.10.6
 mongo-id@1.0.1
 observe-sequence@1.0.7
 promise@0.5.0
 random@1.0.4
 reactive-var@1.0.6
-rzymek:fullcalendar@2.4.0
 spacebars@1.0.7
 spacebars-compiler@1.0.7
 templating@1.1.4
