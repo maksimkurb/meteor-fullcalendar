@@ -8,7 +8,7 @@ Package.describe({
 Package.onUse(function(api) {
     api.versionsFrom('METEOR@0.9.2.2');
     api.use([
-        'momentjs:moment@2.10.6',
+        'momentjs:moment',
         'templating'
     ], 'client');
     api.addFiles([
