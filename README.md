@@ -2,7 +2,7 @@
 
 ### Instalation ###
 
-    meteor add rzymek:fullcalendar
+    meteor add maksimkurb:fullcalendar
 
 ### Usage ###
 
